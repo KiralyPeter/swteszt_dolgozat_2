@@ -1,4 +1,12 @@
-// package views;
+/*
+* File: InputPanel.java
+* Author: Király Péter
+* Copyright: 2023, Király Péter
+* Group: Szoft-1-2-E
+* Date: 2023-05-23
+* Github: https://github.com/KiralyPeter/swteszt_dolgozat_2.git
+* Licenc: GNU GPL
+*/
 
 import javax.swing.BoxLayout;
 import javax.swing.JLabel;
